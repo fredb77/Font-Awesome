@@ -1,0 +1,26 @@
+
+body {
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    background-color: #E1E8ED;
+}
+header {
+    height: 60px;
+    width: 100%;
+    border-bottom: 1px #82b74b solid;
+    background-color: #292F33;
+}
+
+div {
+    margin: auto;
+    padding: 10px;
+}
+
+a{
+    color: #66757F;
+}
+
+a:hover {
+    color: #CCD6DD;
+}
